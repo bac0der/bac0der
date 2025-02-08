@@ -1,4 +1,4 @@
-# 👋 Assalomu alaykum, men Baxtiyor Abduraimov!
+# 👋 Salom, men Baxtiyor Abduraimov!
 ## Web dasturlash, dizayn va ta'limga qiziquvchi dasturchi!
 
 ---
