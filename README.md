@@ -48,9 +48,9 @@
 
 ## 📫 Bog‘lanish
 
-📩 **Email**: [your.email@example.com](mailto:bahtiyorjonabduraimv@gmail.com)  
-🌍 **Portfolio**: [yourwebsite.com](https://baxtiyor-abduraimov.vercel.apo)  
-📷 **Instagram**: [@yourinstagram](https://instagram.com/ba.coder)  
+📩 **Email**: [bahtiyorjonabduraimv@gmail.com](mailto:bahtiyorjonabduraimv@gmail.com)  
+🌍 **Portfolio**: [baxtiyor-abduraim0v](https://baxtiyor-abduraimov.vercel.apo)  
+📷 **Instagram**: [@ba.coder](https://instagram.com/ba.coder)  
 
 ---
 
