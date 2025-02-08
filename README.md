@@ -1,5 +1,5 @@
-<h1 align="center">👋 Assalomu alaykum, men Baxtiyor Abduraimov!</h1>
-<h3 align="center">Web dasturlash, dizayn va ta'limga qiziquvchi dasturchi!</h3>
+# 👋 Assalomu alaykum, men Baxtiyor Abduraimov!
+## Web dasturlash, dizayn va ta'limga qiziquvchi dasturchi!
 
 ---
 
