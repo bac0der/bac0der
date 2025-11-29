@@ -8,7 +8,6 @@
 - 🚀 **BA Coder** loyihasining asoschisi va rahbari  
 - 💡 Web dasturlash, UI/UX dizayn va mobil ilovalar yaratishga qiziqaman  
 - 📢 O'zbekistonda **talab yuqori bo‘lgan sohalarni** va **daromadli bizneslarni** o‘rganmoqdaman  
-- 🏆 **Abituriyentga sertifikat olishga yordam berish** va **mentorlik qilish** maqsadim bor  
 - 🔥 **React.js & Node.js** bo‘yicha tajriba orttirmoqdaman  
 - 📌 Portfolio uchun **real loyihalar** yaratmoqdaman    
 - 🌱 Hozir **Firebase, Tailwind CSS va Material UI** bilan ishlashni o‘rganmoqdaman  
