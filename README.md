@@ -48,7 +48,7 @@
 ## 📫 Bog‘lanish
 
 📩 **Email**: [bahtiyorjonabduraimv@gmail.com](mailto:bahtiyorjonabduraimv@gmail.com)  
-🌍 **Portfolio**: [baxtiyor-abduraim0v](https://baxtiyor-abduraimov.vercel.apo)  
+🌍 **Portfolio**: [baxtiyor-abduraim0v](https://baxtiyor-abduraim0v.vercel.app)  
 📷 **Instagram**: [@ba.coder](https://instagram.com/ba.coder)  
 
 ---
